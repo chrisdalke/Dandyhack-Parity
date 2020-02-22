@@ -5,7 +5,7 @@ Parity created novel ways to generate sound through unique hardware/software ins
 
 We built:
 - A set of giant glowing piano keys connected to a visualization and synthesizer
-- A [theremin](https://en.wikipedia.org/wiki/Theremin) shirt which generated tones based on the position of the users' hands relative to the shirt buttons.
+- A theremin shirt which generated tones based on the position of the users' hands relative to the shirt buttons.
 - A keyboard glove which could be manipulated to play chords based on finger positions.
 
 ## What's Here
