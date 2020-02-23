@@ -31,4 +31,3 @@ I started the project by building wooden & acrylic pads for each key. Because of
 I then built each key, putting colored LED strips and a piezo element under a piece of plexiglass that I frosted using a sander. I interconnected all the keys using a bundle of wires which connected to a single arduino which controlled the whole system. The arduino monitored the voltage from each piezo element, sending a signal if any of the elements went over the threshold that indicated they were being pressed or tapped.
 
 Finally, I built the visualization and synthesizer using Processing. The software read the USB-Serial input and had multiple advanced features; looping, layering, multiple instruments were all included in the project.
-
